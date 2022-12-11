@@ -12,6 +12,6 @@ package com.mycompany.tareagithubnueva;
 public class TareaGitHubNueva {
 
     public static void main(String[] args) {
-        System.out.println("Hola desde Eclipsee");
+        System.out.println("Hola desde NetBeans");
     }
 }
